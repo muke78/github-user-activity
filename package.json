@@ -1,0 +1,12 @@
+{
+  "name": "github-user-activity",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "activity": "node index.js github-activity"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
