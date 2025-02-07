@@ -1,4 +1,4 @@
-const { fetchActivity } = require('./dataFetch');
+const { githubAct } = require('./dataFetch');
 const command = process.argv[2];
 const arg = process.argv[3];
 
@@ -9,7 +9,7 @@ switch (command) {
       console.log('Please provide a username', arg);
       return;
     } else {
-      fetchActivity(arg);
+      githubAct(arg);
     }
     break;
 }
