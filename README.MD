@@ -4,6 +4,14 @@ In this project, you will build a simple command line interface (CLI) to fetch t
 
 ## Table of Contents
 
+- [Project link](#project-link)
+- [Requirements](#requirements)
+- [Commands](#commands)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contact](#contact)
+
+
 ## Project link
 
 [https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity)
@@ -48,3 +56,13 @@ Here are the basic commands to use the CLI GitHub User Activity:
 ```bash
 npm run activity <username>
 ```
+## Screenshots
+
+![alt text](image.png)
+
+## Contact
+
+If you have any questions or suggestions, feel free to contact us:
+
+- Author name: [Erick Gonzalez](https://github.com/muke78)
+- Email : <erickm.gonzalez.rivera@gmail.com>
